@@ -179,4 +179,42 @@ h4{
 #as_seen_img{
     margin-left: 4%;
     margin-right: 4%;
-} 
+}
+#product_infos{
+    display: flex;
+    justify-content: center;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+#product_infos_1{
+    display: flex;
+}
+#product_infos_2{
+    display: flex;
+}
+#product_infos_bottom{
+    background-color: rgb(29, 28, 28);
+    margin-bottom: 50px;
+    translate: 560% 0% ;
+    margin-left: 7%;
+    margin-right: 82%;
+    border-style: solid;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: lighter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5%;
+    border-width: 2px;
+}
+
+h3{
+    height: 20%;
+    font-weight: lighter;    
+}
+#leftScrollImages{
+    display: flex;
+    height: 70%;
+    margin-left: 4%;
+}
