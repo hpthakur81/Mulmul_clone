@@ -218,3 +218,33 @@ h3{
     height: 70%;
     margin-left: 4%;
 }
+#scrolling_line{
+    width: 92%;
+    height: 2px;
+    background-color: grey;
+    margin-top: 4%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+}
+#scrolling_line1{
+    width: 3%;
+    height: 2px;
+    background-color: black;
+    margin-top: 4%;
+    margin-left: 4%;
+    margin-bottom: 4%;
+}
+#shopthelook{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    font-size: 250%;
+}
+#lookbox{
+    z-index: -7;
+    width: 20%;
+    height: 20%;
+    background-color: white;
+    translate: 50px -150px;
+    border-radius: 5%; 
+}
